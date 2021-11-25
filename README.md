@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @rjhefley
-- 👀 I’m interested in Business Analytics / Data Science / Statistics
-- 🌱 I’m currently learning Java and R
+- 🎓 I'm currently in a MS Business Analytics and Data Science program
+- 👀 I'm interested in marketing, analytics, and consumer behavior 
+- 🌱 I'm currently taking classes in data warehousing and visualization (Tableau)
+
 
 <!---
 rjhefley/rjhefley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
