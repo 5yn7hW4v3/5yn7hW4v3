@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @rjhefley
 - 📍  I'm currently residing in Northwest Arkansas
 - 👀 I'm interested in marketing analytics and consumer behavior 
-- 🎓 I'm currently in a MS Business Analytics and Data Science program
+- 🎓 I'm currently in a student @ Oklahoma State University | M.S Management Information Systems
 - 🌱 I'm currently taking:
-  - Descriptive Business Analytics
+  - ~~Descriptive Business Analytics~~
   - Programming for Data Science and Analytics
 
 <!---
