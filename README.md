@@ -2,7 +2,7 @@
 - 📍 I'm currently residing in Northwest Arkansas
 - 👀 I'm interested in cybersecurity and analytics
 - 🎓 EDUCATION:
-  - MS Management Information Systems
-  - BS Geology
-  - A.A.S Network Administration
+  - M.S. Management Information Systems
+  - B.S. Geology
+  - A.A.S. Network Administration
   
