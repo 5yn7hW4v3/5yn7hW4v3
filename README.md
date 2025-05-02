@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @5yn7hW4v3
 - 📍 I'm currently residing in Northwest Arkansas
-- 👀 I'm interested in web development and cybersecurity
-- 🎓 I'm currently a student @ Oklahoma State University | M.S Management Information Systems
+- 👀 I'm interested in cybersecurity and analytics
+- 🎓 Hold MS Management Information System
+  - TEST
+  
